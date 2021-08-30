@@ -1,0 +1,2 @@
+# VS2019-
+帮助小白一键离线下载vs2019。by LR bat中默认路径为C盘。（因为某些电脑没有D盘） 请将文件夹VS2019-layout-BAT拖到c盘根目录运行。 所有文件均会下载至C:\vs2019-layout-installer\vs2019 运行install.bat大约会下载2个G左右的文件 （其实并不多）。 运行install.bat和install mfc.bat和install -帮助查看器.bat，大概会下载三个G左右的文件。  如需更改下载路径，请将"c:\"替换为你想要的安装路径 ，例如“D:\Download”。  "iinstall -C++ 桌面开发（可以开发C语言）.bat" 主要面向C/C++ 桌面开发。   /*{ 微软官方说明文档 https://docs.microsoft.com/zh-cn/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019 https://docs.microsoft.com/zh-cn/visualstudio/install/workload-component-id-vs-enterprise?view=vs-2019 */
