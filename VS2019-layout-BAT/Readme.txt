@@ -1,17 +1,17 @@
-°ïÖúĞ¡°×Ò»¼üÀëÏßÏÂÔØvs2019¡£by LR
-batÖĞÄ¬ÈÏÂ·¾¶ÎªCÅÌ¡££¨ÒòÎªÄ³Ğ©µçÄÔÃ»ÓĞDÅÌ£©
-Çë½«ÎÄ¼ş¼ĞVS2019-layout-BATÍÏµ½cÅÌ¸ùÄ¿Â¼ÔËĞĞ¡£
-ËùÓĞÎÄ¼ş¾ù»áÏÂÔØÖÁC:\vs2019-layout-installer\vs2019
-ÔËĞĞinstall.bat´óÔ¼»áÏÂÔØ2¸öG×óÓÒµÄÎÄ¼ş £¨ÆäÊµ²¢²»¶à£©¡£
-ÔËĞĞinstall.batºÍinstall mfc.batºÍinstall -°ïÖú²é¿´Æ÷.bat£¬´ó¸Å»áÏÂÔØÈı¸öG×óÓÒµÄÎÄ¼ş¡£
+å¸®åŠ©å°ç™½ä¸€é”®ç¦»çº¿ä¸‹è½½vs2019ã€‚by LR
+batä¸­é»˜è®¤è·¯å¾„ä¸ºCç›˜ã€‚ï¼ˆå› ä¸ºæŸäº›ç”µè„‘æ²¡æœ‰Dç›˜ï¼‰
+è¯·å°†æ–‡ä»¶å¤¹VS2019-layout-BATæ‹–åˆ°cç›˜æ ¹ç›®å½•è¿è¡Œã€‚
+æ‰€æœ‰æ–‡ä»¶å‡ä¼šä¸‹è½½è‡³C:\vs2019-layout-installer\vs2019
+è¿è¡Œinstall.batå¤§çº¦ä¼šä¸‹è½½2ä¸ªGå·¦å³çš„æ–‡ä»¶ ï¼ˆå…¶å®å¹¶ä¸å¤šï¼‰ã€‚
+è¿è¡Œinstall.batå’Œinstall mfc.batå’Œinstall -å¸®åŠ©æŸ¥çœ‹å™¨.batï¼Œå¤§æ¦‚ä¼šä¸‹è½½ä¸‰ä¸ªGå·¦å³çš„æ–‡ä»¶ã€‚
 
-ÈçĞè¸ü¸ÄÏÂÔØÂ·¾¶£¬Çë½«"c:\"Ìæ»»ÎªÄãÏëÒªµÄ°²×°Â·¾¶ £¬ÀıÈç¡°D:\Download¡±¡£
+å¦‚éœ€æ›´æ”¹ä¸‹è½½è·¯å¾„ï¼Œè¯·å°†"c:\"æ›¿æ¢ä¸ºä½ æƒ³è¦çš„å®‰è£…è·¯å¾„ ï¼Œä¾‹å¦‚â€œD:\Downloadâ€ã€‚
 
-"iinstall -C++ ×ÀÃæ¿ª·¢£¨¿ÉÒÔ¿ª·¢CÓïÑÔ£©.bat" Ö÷ÒªÃæÏòC/C++ ×ÀÃæ¿ª·¢¡£
+"install -C++ æ¡Œé¢å¼€å‘ï¼ˆå¯ä»¥å¼€å‘Cè¯­è¨€ï¼‰.bat" ä¸»è¦é¢å‘C/C++ æ¡Œé¢å¼€å‘ã€‚
 
 
 /*{
-Î¢Èí¹Ù·½ËµÃ÷ÎÄµµ
+å¾®è½¯å®˜æ–¹è¯´æ˜æ–‡æ¡£
 https://docs.microsoft.com/zh-cn/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019
 https://docs.microsoft.com/zh-cn/visualstudio/install/workload-component-id-vs-enterprise?view=vs-2019
 */
